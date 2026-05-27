@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdetch",
+        "uuid": 9926092,
+        "checksum": "lc81k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
